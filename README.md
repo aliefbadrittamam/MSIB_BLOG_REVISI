@@ -55,7 +55,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/laravel-blog-project.git
+   git clone https://github.com/your_username/laravel-blog-project.git](https://github.com/aliefbadrittamam/MSIB_BLOG_REVISI.git
    ```
 2. Install Composer dependencies
    ```sh
